@@ -1,0 +1,63 @@
+#logo{
+    width: 40px; ;
+    height: 40px;;
+}
+#menu {
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(148, 243, 215);
+}
+#content {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:rgba(238, 135, 195, 0.897);
+}
+#footer {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(230, 240, 138);
+}
+#a{
+    background-color: rgb(172, 142, 241);
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+tr {
+    text-align: center;
+    padding: 10px;
+}
+#mon {
+    background-color: rgb(205, 245, 28);
+}
+#tue {
+    background-color: rgb(240, 56, 184);
+}
+#wed {
+    background-color:rgb(35, 207, 78);
+}
+#thu {
+    background-color: rgb(241, 124, 69);
+}
+#fri {
+    background-color: rgb(49, 200, 238);
+}
+.text {
+    transform: rotate(-90deg); 
+    position:relative;
+} 

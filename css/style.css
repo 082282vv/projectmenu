@@ -1,0 +1,32 @@
+#logo{
+    width: 40px; ;
+    height: 40px;;
+}
+#menu {
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(148, 243, 215);
+}
+#content {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:rgba(238, 135, 195, 0.897);
+}
+#footer {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(230, 240, 138);
+}
